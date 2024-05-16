@@ -1,0 +1,290 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "width": 259,
+      "height": 194,
+      "file_name": "images.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/images.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/images.jpg",
+      "date_captured": "2024-05-16T16:13:23.0340806Z"
+    },
+    {
+      "id": 2,
+      "width": 700,
+      "height": 390,
+      "file_name": "tacoas-al-pastor.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/tacoas-al-pastor.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/tacoas-al-pastor.jpg",
+      "date_captured": "2024-05-16T16:13:23.0341053Z"
+    },
+    {
+      "id": 3,
+      "width": 1200,
+      "height": 672,
+      "file_name": "tacos-de-cochinita-pibil.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/tacos-de-cochinita-pibil.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/tacos-de-cochinita-pibil.jpg",
+      "date_captured": "2024-05-16T16:13:23.0341076Z"
+    },
+    {
+      "id": 4,
+      "width": 1200,
+      "height": 1200,
+      "file_name": "cochinita-pibil-tacos-recipe-1.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/cochinita-pibil-tacos-recipe-1.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/cochinita-pibil-tacos-recipe-1.jpg",
+      "date_captured": "2024-05-16T16:13:23.0340937Z"
+    },
+    {
+      "id": 5,
+      "width": 700,
+      "height": 446,
+      "file_name": "tacos-al-pastor-receta.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/tacos-al-pastor-receta.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/tacos-al-pastor-receta.jpg",
+      "date_captured": "2024-05-16T16:13:23.0341192Z"
+    },
+    {
+      "id": 6,
+      "width": 1366,
+      "height": 911,
+      "file_name": "1366_2000.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/1366_2000.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/1366_2000.jpg",
+      "date_captured": "2024-05-16T16:13:23.0340912Z"
+    },
+    {
+      "id": 7,
+      "width": 1524,
+      "height": 1140,
+      "file_name": "pibil-tacos.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/pibil-tacos.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/pibil-tacos.jpg",
+      "date_captured": "2024-05-16T16:13:23.0341273Z"
+    },
+    {
+      "id": 8,
+      "width": 1200,
+      "height": 921,
+      "file_name": "tacos-al-pastor.jpeg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/tacos-al-pastor.jpeg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/tacos-al-pastor.jpeg",
+      "date_captured": "2024-05-16T16:13:23.0340963Z"
+    },
+    {
+      "id": 9,
+      "width": 600,
+      "height": 450,
+      "file_name": "tacos_de_cochinita_pibil_76579_paso_11_600.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/tacos_de_cochinita_pibil_76579_paso_11_600.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/tacos_de_cochinita_pibil_76579_paso_11_600.jpg",
+      "date_captured": "2024-05-16T16:13:23.0340889Z"
+    },
+    {
+      "id": 10,
+      "width": 1200,
+      "height": 797,
+      "file_name": "cochinita-pibil.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/cochinita-pibil.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/cochinita-pibil.jpg",
+      "date_captured": "2024-05-16T16:13:23.034125Z"
+    },
+    {
+      "id": 11,
+      "width": 1080,
+      "height": 720,
+      "file_name": "WhatsApp-Image-2019-09-25-at-7.37.13-PM.jpeg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/WhatsApp-Image-2019-09-25-at-7.37.13-PM.jpeg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/WhatsApp-Image-2019-09-25-at-7.37.13-PM.jpeg",
+      "date_captured": "2024-05-16T16:13:23.0341147Z"
+    },
+    {
+      "id": 12,
+      "width": 275,
+      "height": 183,
+      "file_name": "download.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/download.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/download.jpg",
+      "date_captured": "2024-05-16T16:13:23.0340863Z"
+    },
+    {
+      "id": 13,
+      "width": 1000,
+      "height": 560,
+      "file_name": "panuchos-de-relleno-negro.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/panuchos-de-relleno-negro.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/panuchos-de-relleno-negro.jpg",
+      "date_captured": "2024-05-16T16:13:23.0341171Z"
+    },
+    {
+      "id": 14,
+      "width": 1200,
+      "height": 1200,
+      "file_name": "c4095d4b2ed7887d7ab38903b455b37c.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/c4095d4b2ed7887d7ab38903b455b37c.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/c4095d4b2ed7887d7ab38903b455b37c.jpg",
+      "date_captured": "2024-05-16T16:13:23.0341099Z"
+    },
+    {
+      "id": 15,
+      "width": 275,
+      "height": 183,
+      "file_name": "images (1).jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/images (1).jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/images%20(1).jpg",
+      "date_captured": "2024-05-16T16:13:23.034112Z"
+    },
+    {
+      "id": 16,
+      "width": 650,
+      "height": 366,
+      "file_name": "650_1200.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/650_1200.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/650_1200.jpg",
+      "date_captured": "2024-05-16T16:13:23.0341006Z"
+    },
+    {
+      "id": 17,
+      "width": 550,
+      "height": 367,
+      "file_name": "taco-de-relleno-negro.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/taco-de-relleno-negro.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/taco-de-relleno-negro.jpg",
+      "date_captured": "2024-05-16T16:13:23.0341227Z"
+    },
+    {
+      "id": 18,
+      "width": 1000,
+      "height": 560,
+      "file_name": "cochinita-pibil-olla-express.jpg",
+      "coco_url": "AmlDatastore://label_taquitos_datastore/cochinita-pibil-olla-express.jpg",
+      "absolute_url": "https://ai102storage78123.blob.core.windows.net/taquitos1/cochinita-pibil-olla-express.jpg",
+      "date_captured": "2024-05-16T16:13:23.034103Z"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "category_id": 2,
+      "image_id": 1,
+      "area": 0.0
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "image_id": 2,
+      "area": 0.0
+    },
+    {
+      "id": 3,
+      "category_id": 2,
+      "image_id": 3,
+      "area": 0.0
+    },
+    {
+      "id": 4,
+      "category_id": 2,
+      "image_id": 4,
+      "area": 0.0
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "image_id": 5,
+      "area": 0.0
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "image_id": 6,
+      "area": 0.0
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "image_id": 7,
+      "area": 0.0
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "image_id": 8,
+      "area": 0.0
+    },
+    {
+      "id": 9,
+      "category_id": 2,
+      "image_id": 9,
+      "area": 0.0
+    },
+    {
+      "id": 10,
+      "category_id": 2,
+      "image_id": 10,
+      "area": 0.0
+    },
+    {
+      "id": 11,
+      "category_id": 3,
+      "image_id": 11,
+      "area": 0.0
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "image_id": 12,
+      "area": 0.0
+    },
+    {
+      "id": 13,
+      "category_id": 3,
+      "image_id": 13,
+      "area": 0.0
+    },
+    {
+      "id": 14,
+      "category_id": 3,
+      "image_id": 14,
+      "area": 0.0
+    },
+    {
+      "id": 15,
+      "category_id": 2,
+      "image_id": 15,
+      "area": 0.0
+    },
+    {
+      "id": 16,
+      "category_id": 1,
+      "image_id": 16,
+      "area": 0.0
+    },
+    {
+      "id": 17,
+      "category_id": 3,
+      "image_id": 17,
+      "area": 0.0
+    },
+    {
+      "id": 18,
+      "category_id": 2,
+      "image_id": 18,
+      "area": 0.0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "tacoPastor"
+    },
+    {
+      "id": 2,
+      "name": "tacoCochinita"
+    },
+    {
+      "id": 3,
+      "name": "tacoRecado"
+    }
+  ]
+}
